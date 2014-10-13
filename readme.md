@@ -1,5 +1,8 @@
 Spiking-Timing Dependent Plasticity Function LookUp Table Generator 
-2014 Sandor Vasas
+
+2014, Sandor Vasas
+
+This is a KDevelop4 project.
 
 This is a free utility to generate Long-Term Potentiation LUT and Long-Term Depression LUT
 for Spiking Neural Network Simulations.
