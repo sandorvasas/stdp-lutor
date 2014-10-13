@@ -1,0 +1,1 @@
+/media/sandor/ds/Dokumentumok/CloudStorage/Robotworks/src/utilities/STDPLutor/build/CMakeFiles/stdplutor.dir
